@@ -1,10 +1,10 @@
 ---
-title: Auth + Docker + Postgres + JWT
+title:  Survey Project Go Fiber + GORM
 keywords: [auth, docker, postgres, jwt]
 description: Authentication with Docker, Postgres, and JWT.
 ---
 
-# Auth Docker Postgres JWT Example
+# Survey Project
 
 [![Github](https://img.shields.io/static/v1?label=&message=Github&color=2ea44f&style=for-the-badge&logo=github)](https://github.com/gofiber/recipes/tree/master/auth-docker-postgres-jwt) [![StackBlitz](https://img.shields.io/static/v1?label=&message=StackBlitz&color=2ea44f&style=for-the-badge&logo=StackBlitz)](https://stackblitz.com/github/gofiber/recipes/tree/master/auth-docker-postgres-jwt)
 
